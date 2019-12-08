@@ -1,4 +1,4 @@
-FROM "latex-docker/latex-base:latest"
+FROM "flegmatyk/latex:latex-base"
 #
 # I know "scheme-full" is tempting, but three hours later you may have wished you picked out the packages...
 #
