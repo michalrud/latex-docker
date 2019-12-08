@@ -82,4 +82,5 @@ RUN tlmgr install \
     bookmark \
     hyperref \
     fancyhdr \
-    tools
+    tools \
+    oberdiek
