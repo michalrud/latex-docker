@@ -77,9 +77,9 @@ RUN tlmgr install \
     xindy \
     xkeyval \
     lastpage \
-    tgheros \
-    fullpage \
+    tex-gyre \
+    preprint \
     bookmark \
     hyperref \
     fancyhdr \
-    tabularx
+    tools
